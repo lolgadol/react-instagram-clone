@@ -1,0 +1,8 @@
+# Node modules
+/node_modules
+/server/node_modules
+
+# Configuration files
+/src/config.json
+/server/server.cert
+/server/server.key
